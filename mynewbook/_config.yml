@@ -3,7 +3,7 @@
 
 title: Series de Tiempo
 author: Grupo 6 - Keyner Martínez; John Vargas; Johan Bolivar
-logo: logo_jav.png
+logo: logo_jav.PNG
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
